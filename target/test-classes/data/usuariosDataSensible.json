@@ -1,0 +1,26 @@
+[
+
+  {
+    "nome": "Gerson Test",
+    "password": "123456",
+    "administrador": "true"
+  },
+{
+  "nome":"Usuario",
+  "email":"usuario@test.com",
+  "password":"123456",
+  "administrador":"true"
+},
+  {
+    "nome": "Gerson Test",
+    "password": "123456",
+    "administrador": "true"
+  },
+  {
+    "nome":"Usuario Actualizado",
+    "email":"actualizado@mail.com",
+    "password":"123456",
+    "administrador":"false"
+  }
+
+]
